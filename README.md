@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hector-Franck
-- 👀 I’m interested in C#; .NET Core; SSMS;
+- 👀 I’m interested in C#; .NET Core; SSMS; SSIS; SSRS; SQLS;
 - 🌱 I’m currently learning .NET Core;
 - 💞️ I'm not trying to collaborate at the moment;
 - 📫 How to reach me hector.franck@supermix.com.br;
